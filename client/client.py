@@ -1,6 +1,6 @@
 from typing import List, Dict
 from openai import OpenAI
-from config import LLMConfig
+from config.config import LLMConfig
 
 
 class LLMClient:
